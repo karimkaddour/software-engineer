@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "White t-Shirt",
+        "price": 100.99,
+        "image": "../photos/image1.png"
+    },
+    {
+        "id": 2,
+        "name": "Burgendy t_shirt",
+        "price": 200.99,
+        "image": "../photos/image2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Green TSHIRT",
+        "price": 175.99,
+        "image": "../photos/image3.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "BLUE DRESS",
+        "price":120.99 ,
+        "image": "../photos/image4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "BABY CLOTHES SET",
+        "price": 150.99,
+        "image": "../photos/image5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Nike",
+        "price": 220.99,
+        "image": "../photos/shoes6.png"
+    }
+]
